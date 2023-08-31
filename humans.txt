@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    jason radler dans@dans@com
 
 # THANKS
 

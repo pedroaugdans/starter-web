@@ -15,5 +15,7 @@ simple web project
 
 ## How to contribute
 
+### Copyright
+git training
 
 
