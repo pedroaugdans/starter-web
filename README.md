@@ -4,7 +4,7 @@ this is a simple project for showing how git
 
 ## Introduction
 This is long, and this is not so long
-
+more changes
 
 ## Purpose
 
@@ -17,6 +17,6 @@ simple web project
 - contribution instructions here
 
 ### Copyright
-I wanna add text
+I wanna add text - more changes
 
 
