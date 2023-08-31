@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-this is a simple project for showing how git
+this is a simple project for showing how git. fix after stash
 
 ## Introduction
 This is long, and this is not so long
