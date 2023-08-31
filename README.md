@@ -17,6 +17,6 @@ simple web project
 - contribution instructions here
 
 ### Copyright
-I wanna add text - more changes
+I wanna add text - more changes - all rights reserved
 
 
