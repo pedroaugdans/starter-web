@@ -14,6 +14,6 @@ Sample website with plenty of files for demos
 simple web project
 
 ## How to contribute
-
+fork this repo and issue pull request for review
 
 
