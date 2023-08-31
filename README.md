@@ -14,7 +14,7 @@ Sample website with plenty of files for demos
 simple web project
 
 ## How to contribute
-
+- contribution instructions here
 
 ### Copyright
 
